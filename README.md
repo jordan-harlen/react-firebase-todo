@@ -1,4 +1,4 @@
-#Todo app
+# Todo app
 
 This is a app I built to help track tasks through out the day. It's created using React and Firestore and hosted using Firebase hosting.
 
@@ -27,6 +27,6 @@ You can:
 -Update a tasks name/title
 -Delete a task
 
-##Conclusion
+## Conclusion
 
 Thank you for taking a lot at my app and am always open to suggestions.
