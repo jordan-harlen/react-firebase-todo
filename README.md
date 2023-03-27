@@ -21,11 +21,11 @@ This app uses basic CRUD operations.
 
 You can:
 
--Create a task
--View current tasks that are either complete or to be completed
--Toggle a task based on whether it has been completed or not
--Update a tasks name/title
--Delete a task
+1. Create a task
+2. View current tasks that are either complete or to be completed
+3. Toggle a task based on whether it has been completed or not
+4. Update a tasks name/title
+5. Delete a task
 
 ## Conclusion
 
